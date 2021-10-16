@@ -5,6 +5,8 @@
 
 Fonte de dados: [dataset covid19](https://github.com/wcota/covid19br)  
 
+Veja mais detalhes do [Data Lakehouse aqui:](https://anderson-paulucci.medium.com/big-data-com-data-lakehouse-cbd7b4300a81)
+
 ## 1) Criando o warehouse "LakeHouse" no SlowFlake: 
    
 CREATE WAREHOUSE LakeHouse
